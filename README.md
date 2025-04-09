@@ -4,5 +4,5 @@ I work as a Data Analyst . I have a Bachelor’s degree in Artificial Intelligen
 
 I am passionate about leveraging the power of data to drive innovation and solve complex problems. I have honed my skills in data analysis, and algorithm development, and I am eager to apply these skills in a professional setting.
 
-- **LinkedIn** ➡️ [@mo-chen1](https://www.linkedin.com/in/vishnu-cg/)
+- **LinkedIn** ➡️ [@Vishnu CG](https://www.linkedin.com/in/vishnu-cg/)
 
